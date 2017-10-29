@@ -1201,7 +1201,11 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
-
+.copy-rights{
+	position:absolute;
+	bottom:-95px;
+	left:-650px;
+}
 .owl-carousel .owl-controls .owl-dot span {
   background: #e6e6e6;
 }
