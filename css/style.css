@@ -1216,4 +1216,11 @@ h1, h2, h3, h4, h5, h6 {
   border: 2px solid #ff3b30;
 }
 
+/*footer styles*/
+.footer-bottom {
+  background: #E3E3E3;
+  border-top: 1px solid #DDDDDD;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 /*# sourceMappingURL=style.css.map */
