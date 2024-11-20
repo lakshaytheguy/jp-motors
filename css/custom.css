@@ -1,0 +1,9 @@
+.footline{
+    background: #293644;
+    color: #74889e;
+}
+
+.footline p{
+    font-size: 1.4rem;
+    margin: 1.2rem 0;
+}
